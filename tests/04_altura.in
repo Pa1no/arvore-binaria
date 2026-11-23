@@ -1,0 +1,7 @@
+create (A,(B,(),()),(C,(F,(),()),()))
+height A
+height C
+height F
+height B
+height Z
+exit

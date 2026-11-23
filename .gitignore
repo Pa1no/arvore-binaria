@@ -1,0 +1,7 @@
+# objetos e executaveis
+*.o
+*.exe
+arvore
+
+# editor
+.vscode/

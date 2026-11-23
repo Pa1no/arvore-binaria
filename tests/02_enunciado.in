@@ -1,0 +1,6 @@
+create (A,(B,(),()),(C,(F,(),()),(T,(),())))
+print
+in
+post
+pre
+exit

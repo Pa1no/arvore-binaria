@@ -1,0 +1,10 @@
+create (A,(B,(),()),(C,(),())
+create (A,(B,(),()),(C,(),())))
+create )A,(),()(
+create (A,(),())(B,(),())
+create (,(),())
+create (A,(),(),())
+create
+create (A, (B,(),()) , ())
+pre
+exit
